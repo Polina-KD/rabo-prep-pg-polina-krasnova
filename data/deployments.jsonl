@@ -1,0 +1,428 @@
+{"event_id": "evt-00267", "squad": "Metron", "service": "dashboard", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-17T16:34:00Z", "duration_s": 36}
+{"event_id": "evt-00042", "squad": "Draco", "service": "api", "environment": "prod", "status": " success ", "started_at": 1793207280000, "duration_s": 215}
+{"event_id": "evt-00120", "squad": "Nova", "service": "auth", "environment": "acc", "status": "Success", "started_at": "2026-11-04T17:37:00Z", "duration_s": 236}
+{"event_id": "evt-00012", "squad": "Draco", "service": "scheduler", "environment": "test", "status": "SUCCESS", "started_at": 1793034060000, "duration_s": 183}
+{"event_id": "evt-00119", "squad": "Nova", "service": "api", "environment": "prod", "status": " success ", "started_at": "04-11-2026 08:47", "duration_s": 538}
+{"event_id": "evt-00320", "squad": "Orion", "service": "ingest", "environment": "prod", "status": " success ", "started_at": "2026-11-20T11:49:00Z", "duration_s": 597}
+{"event_id": "evt-00201", "squad": "Lyra", "service": "scheduler", "environment": "acc", "status": " success ", "started_at": "2026-11-10T16:47:00Z", "duration_s": 248}
+{"event_id": "evt-00363", "squad": "Vega", "service": "dashboard", "environment": "acc", "status": "success", "started_at": "2026-11-24T14:37:00Z", "duration_s": 36}
+{"event_id": "evt-00003", "squad": "Orion", "service": "scheduler", "environment": "prod", "status": "SUCCESS", "started_at": "unknown", "duration_s": 603}
+{"event_id": "evt-00082", "squad": "Phoenix", "service": "auth", "environment": "prod", "status": "SUCCESS", "started_at": "unknown", "duration_s": 875}
+{"event_id": "evt-00137", "squad": "Orion", "service": "dashboard", "environment": "prod", "status": "Success", "started_at": "2026-11-05T15:33:00Z", "duration_s": 615}
+{"event_id": "evt-00209", "squad": "Nova", "service": "auth", "environment": "prod", "status": " success ", "started_at": 1794406080000, "duration_s": 371}
+{"event_id": "evt-00100", "squad": "Nova", "service": "dashboard", "environment": "acc", "status": " success ", "started_at": "2026-11-03T12:54:00Z", "duration_s": 161}
+{"event_id": "evt-00024", "squad": "Vega", "service": "ingest", "environment": "prod", "status": "Failed", "started_at": 1793092080000, "duration_s": 95}
+{"event_id": "evt-00234", "squad": "Atlas", "service": "ingest", "environment": "test", "status": "SUCCESS", "started_at": "2026-11-13T09:36:00Z", "duration_s": 375}
+{"event_id": "evt-00236", "squad": "Atlas", "service": "api", "environment": "acc", "status": "FAILED", "started_at": "2026-11-13T17:00:00Z", "duration_s": 40}
+{"event_id": "evt-00285", "squad": "Phoenix", "service": "ingest", "environment": "acc", "status": " success ", "started_at": "2026-11-18T13:03:00Z", "duration_s": 897}
+{"event_id": "evt-00338", "squad": "Phoenix", "service": "dashboard", "environment": "acc", "status": "Success", "started_at": "23-11-2026 11:51", "duration_s": 280}
+{"event_id": "evt-00036", "squad": "Lyra", "service": "api", "environment": "prod", "status": "success", "started_at": 1793199600000, "duration_s": 412}
+{"event_id": "evt-00277", "squad": "Draco", "service": "scheduler", "environment": "prod", "status": " success ", "started_at": "unknown", "duration_s": 450}
+{"event_id": "evt-00327", "squad": "Draco", "service": "api", "environment": "test", "status": "success", "started_at": "2026-11-20T16:59:00Z", "duration_s": 574}
+{"event_id": "evt-00053", "squad": "Lyra", "service": "dashboard", "environment": "acc", "status": "SUCCESS", "started_at": "29-10-2026 12:02", "duration_s": 37}
+{"event_id": "evt-00390", "squad": "Metron", "service": "scheduler", "environment": "acc", "status": " success ", "started_at": "2026-11-27T14:24:00Z", "duration_s": 572}
+{"event_id": "evt-00084", "squad": "Phoenix", "service": "ingest", "environment": "prod", "status": "Failed", "started_at": 1793613240000, "duration_s": 103}
+{"event_id": "evt-00299", "squad": "Atlas", "service": "auth", "environment": "acc", "status": " failed ", "started_at": "2026-11-19T14:48:00Z", "duration_s": 689}
+{"event_id": "evt-00208", "squad": "Orion", "service": "scheduler", "environment": "acc", "status": "Success", "started_at": "11-11-2026 10:33", "duration_s": 752}
+{"event_id": "evt-00015", "squad": "Metron", "service": "dashboard", "environment": "prod", "status": "success", "started_at": "2026-10-27T17:12:00Z", "duration_s": 512}
+{"event_id": "evt-00021", "squad": null, "service": "ingest", "environment": "test", "status": " success ", "started_at": 1793088300000, "duration_s": 39}
+{"event_id": "evt-00040", "squad": "Draco", "service": "dashboard", "environment": "prod", "status": "Success", "started_at": "2026-10-28T16:26:00Z", "duration_s": 741}
+{"event_id": "evt-00349", "squad": "Lyra", "service": "scheduler", "environment": "prod", "status": "Success", "started_at": "2026-11-23T08:51:00Z", "duration_s": 755}
+{"event_id": "evt-00137", "squad": "Orion", "service": "dashboard", "environment": "prod", "status": "Success", "started_at": "2026-11-05T15:33:00Z", "duration_s": 615}
+{"event_id": "evt-00326", "squad": null, "service": "scheduler", "environment": "prod", "status": "Success", "started_at": "2026-11-20T15:13:00Z", "duration_s": 389}
+{"event_id": "evt-00164", "squad": "Vega", "service": "ingest", "environment": "test", "status": "Success", "started_at": 1793963280000, "duration_s": 208}
+{"event_id": "evt-00159", "squad": "Nova", "service": "dashboard", "environment": "acc", "status": " failed ", "started_at": "2026-11-06T16:43:00Z", "duration_s": 689}
+{"event_id": "evt-00215", "squad": "Draco", "service": "ingest", "environment": "test", "status": "success", "started_at": "2026-11-11T12:44:00Z", "duration_s": 886}
+{"event_id": "evt-00316", "squad": "Phoenix", "service": "auth", "environment": "prod", "status": "Success", "started_at": 1795177620000, "duration_s": 181}
+{"event_id": "evt-00195", "squad": "Vega", "service": "dashboard", "environment": "acc", "status": " failed ", "started_at": "2026-11-10T08:52:00Z", "duration_s": 463}
+{"event_id": "evt-00229", "squad": "Draco", "service": "api", "environment": "acc", "status": "SUCCESS", "started_at": 1794503460000, "duration_s": 282}
+{"event_id": "evt-00111", "squad": "Atlas", "service": "api", "environment": "test", "status": "success", "started_at": "04-11-2026 17:48", "duration_s": 108}
+{"event_id": "evt-00402", "squad": "Nova", "service": "ingest", "environment": "prod", "status": "Success", "started_at": "2026-11-27T13:53:00Z", "duration_s": 769}
+{"event_id": "evt-00038", "squad": "Lyra", "service": "scheduler", "environment": "acc", "status": "Success", "started_at": "28-10-2026 16:53", "duration_s": 871}
+{"event_id": "evt-00203", "squad": "Draco", "service": "ingest", "environment": "test", "status": "SUCCESS", "started_at": "10-11-2026 17:49", "duration_s": 830}
+{"event_id": "evt-00006", "squad": "Orion", "service": "auth", "environment": "test", "status": "Success", "started_at": "26-10-2026 13:51", "duration_s": 474}
+{"event_id": "evt-00258", "squad": "Atlas", "service": "scheduler", "environment": "prod", "status": " success ", "started_at": "16-11-2026 12:07", "duration_s": 856}
+{"event_id": "evt-00213", "squad": "Lyra", "service": "dashboard", "environment": "acc", "status": "Success", "started_at": "unknown", "duration_s": 237}
+{"event_id": "evt-00204", "squad": "Draco", "service": "api", "environment": "test", "status": "SUCCESS", "started_at": "2026-11-10T16:26:00Z", "duration_s": 214}
+{"event_id": "evt-00400", "squad": "Nova", "service": "ingest", "environment": "prod", "status": "SUCCESS", "started_at": "27-11-2026 15:17", "duration_s": 869}
+{"event_id": "evt-00272", "squad": "Nova", "service": "ingest", "environment": "prod", "status": "SUCCESS", "started_at": 1794931260000, "duration_s": 765}
+{"event_id": "evt-00001", "squad": "Metron", "service": "scheduler", "environment": "prod", "status": " failed ", "started_at": 1793019840000, "duration_s": 252}
+{"event_id": "evt-00399", "squad": "Orion", "service": "api", "environment": "acc", "status": "success", "started_at": "2026-11-27T11:24:00Z", "duration_s": 163}
+{"event_id": "evt-00123", "squad": "Vega", "service": "auth", "environment": "prod", "status": " success ", "started_at": 1793794620000, "duration_s": 475}
+{"event_id": "evt-00380", "squad": "Draco", "service": "dashboard", "environment": "acc", "status": "SUCCESS", "started_at": 1795628760000, "duration_s": 332}
+{"event_id": "evt-00222", "squad": "Atlas", "service": "dashboard", "environment": "prod", "status": "success", "started_at": "2026-11-12T10:11:00Z", "duration_s": 376}
+{"event_id": "evt-00387", "squad": "Lyra", "service": "auth", "environment": "prod", "status": "success", "started_at": 1795699500000, "duration_s": 310}
+{"event_id": "evt-00359", "squad": "Atlas", "service": "dashboard", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-24T10:53:00Z", "duration_s": 487}
+{"event_id": "evt-00070", "squad": "Vega", "service": "scheduler", "environment": "test", "status": "Success", "started_at": "2026-10-30T11:36:00Z", "duration_s": 723}
+{"event_id": "evt-00008", "squad": "Nova", "service": "api", "environment": "prod", "status": "Success", "started_at": "2026-10-26T12:54:00Z", "duration_s": 137}
+{"event_id": "evt-00181", "squad": "Nova", "service": "scheduler", "environment": "acc", "status": " success ", "started_at": "2026-11-09T09:18:00Z", "duration_s": 681}
+{"event_id": "evt-00105", "squad": "Vega", "service": "api", "environment": "prod", "status": "SUCCESS", "started_at": "03-11-2026 09:37", "duration_s": 582}
+{"event_id": "evt-00099", "squad": "Orion", "service": "auth", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-03T13:55:00Z", "duration_s": 179}
+{"event_id": "evt-00376", "squad": "Vega", "service": "api", "environment": "test", "status": "Success", "started_at": "2026-11-25T17:22:00Z", "duration_s": 434}
+{"event_id": "evt-00131", "squad": "Atlas", "service": "auth", "environment": "acc", "status": " success ", "started_at": "2026-11-05T15:38:00Z", "duration_s": 814}
+{"event_id": "evt-00188", "squad": "Phoenix", "service": "auth", "environment": "prod", "status": "success", "started_at": "2026-11-10T09:21:00Z", "duration_s": 547}
+{"event_id": "evt-00246", "squad": "Vega", "service": "ingest", "environment": "acc", "status": "Success", "started_at": "2026-11-13T12:39:00Z", "duration_s": 114}
+{"event_id": "evt-00384", "squad": "Orion", "service": "scheduler", "environment": "acc", "status": "SUCCESS", "started_at": "2026-11-26T09:17:00Z", "duration_s": 220}
+{"event_id": "evt-00055", "squad": "Lyra", "service": "auth", "environment": "prod", "status": "SUCCESS", "started_at": 1793290920000, "duration_s": 778}
+{"event_id": "evt-00254", "squad": "Draco", "service": "auth", "environment": "test", "status": " success ", "started_at": "2026-11-13T11:56:00Z", "duration_s": 598}
+{"event_id": "evt-00389", "squad": "Metron", "service": "auth", "environment": "acc", "status": "success", "started_at": "27-11-2026 11:35", "duration_s": 453}
+{"event_id": "evt-00044", "squad": "Metron", "service": "dashboard", "environment": "prod", "status": "failed", "started_at": "2026-10-29T17:45:00Z", "duration_s": 32}
+{"event_id": "evt-00158", "squad": "Orion", "service": "api", "environment": "test", "status": "Success", "started_at": "2026-11-06T11:15:00Z", "duration_s": 182}
+{"event_id": "evt-00334", "squad": "Atlas", "service": "api", "environment": "test", "status": " success ", "started_at": 1795429800000, "duration_s": 863}
+{"event_id": "evt-00216", "squad": "Draco", "service": "auth", "environment": "prod", "status": "success", "started_at": "11-11-2026 17:14", "duration_s": 511}
+{"event_id": "evt-00089", "squad": "Vega", "service": "auth", "environment": "acc", "status": " success ", "started_at": "02-11-2026 10:52", "duration_s": 668}
+{"event_id": "evt-00037", "squad": "Lyra", "service": "api", "environment": "prod", "status": " success ", "started_at": "2026-10-28T13:23:00Z", "duration_s": 755}
+{"event_id": "evt-00262", "squad": "Nova", "service": "scheduler", "environment": "test", "status": "success", "started_at": 1794820260000, "duration_s": 124}
+{"event_id": "evt-00231", "squad": "Metron", "service": "ingest", "environment": "prod", "status": "SUCCESS", "started_at": "13-11-2026 14:49", "duration_s": 311}
+{"event_id": "evt-00130", "squad": "Atlas", "service": "api", "environment": "prod", "status": "success", "started_at": "2026-11-05T13:49:00Z", "duration_s": 113}
+{"event_id": "evt-00102", "squad": null, "service": "api", "environment": "test", "status": "Success", "started_at": "2026-11-03T11:26:00Z", "duration_s": 224}
+{"event_id": "evt-00180", "squad": "Nova", "service": "ingest", "environment": "acc", "status": "Success", "started_at": 1794234660000, "duration_s": 165}
+{"event_id": "evt-00339", "squad": "Orion", "service": "ingest", "environment": "test", "status": "success", "started_at": "2026-11-23T16:25:00Z", "duration_s": 287}
+{"event_id": "evt-00322", "squad": "Nova", "service": "scheduler", "environment": "acc", "status": "Success", "started_at": "20-11-2026 08:31", "duration_s": 89}
+{"event_id": "evt-00300", "squad": "Phoenix", "service": "ingest", "environment": "acc", "status": "SUCCESS", "started_at": 1795090320000, "duration_s": 622}
+{"event_id": "evt-00265", "squad": "Metron", "service": "api", "environment": "test", "status": "Success", "started_at": "2026-11-17T14:11:00Z", "duration_s": 120}
+{"event_id": "evt-00372", "squad": "Nova", "service": "auth", "environment": "acc", "status": " success ", "started_at": "25-11-2026 15:28", "duration_s": 704}
+{"event_id": "evt-00334", "squad": "Atlas", "service": "api", "environment": "test", "status": " success ", "started_at": 1795429800000, "duration_s": 863}
+{"event_id": "evt-00248", "squad": "Lyra", "service": "scheduler", "environment": "acc", "status": " success ", "started_at": "2026-11-13T13:38:00Z", "duration_s": 607}
+{"event_id": "evt-00344", "squad": "Nova", "service": "api", "environment": "prod", "status": "success", "started_at": "2026-11-23T08:35:00Z", "duration_s": 754}
+{"event_id": "evt-00142", "squad": "Lyra", "service": "auth", "environment": "prod", "status": "Success", "started_at": 1793869080000, "duration_s": 535}
+{"event_id": "evt-00041", "squad": "Draco", "service": "scheduler", "environment": "prod", "status": "success", "started_at": 1793191620000, "duration_s": 212}
+{"event_id": "evt-00043", "squad": "Metron", "service": "auth", "environment": "test", "status": "Success", "started_at": "2026-10-29T15:41:00Z", "duration_s": 217}
+{"event_id": "evt-00085", "squad": "Nova", "service": "api", "environment": "test", "status": "success", "started_at": "2026-11-02T08:43:00Z", "duration_s": 683}
+{"event_id": "evt-00223", "squad": "Phoenix", "service": "auth", "environment": "acc", "status": "success", "started_at": "2026-11-12T09:25:00Z", "duration_s": 694}
+{"event_id": "evt-00234", "squad": "Atlas", "service": "ingest", "environment": "test", "status": "SUCCESS", "started_at": "2026-11-13T09:36:00Z", "duration_s": 375}
+{"event_id": "evt-00184", "squad": "Atlas", "service": "auth", "environment": "prod", "status": "success", "started_at": "2026-11-10T11:27:00Z", "duration_s": 63}
+{"event_id": "evt-00171", "squad": "Draco", "service": "ingest", "environment": "prod", "status": "Success", "started_at": "2026-11-06T11:13:00Z", "duration_s": 641}
+{"event_id": "evt-00268", "squad": "Atlas", "service": "api", "environment": "prod", "status": "success", "started_at": "17-11-2026 15:28", "duration_s": 76}
+{"event_id": "evt-00371", "squad": "Nova", "service": "dashboard", "environment": "prod", "status": "SUCCESS", "started_at": "25-11-2026 17:52", "duration_s": 522}
+{"event_id": "evt-00098", "squad": "Phoenix", "service": "dashboard", "environment": "prod", "status": "Success", "started_at": "2026-11-03T09:29:00Z", "duration_s": 251}
+{"event_id": "evt-00396", "squad": "Phoenix", "service": "ingest", "environment": "prod", "status": " success ", "started_at": "2026-11-27T16:36:00Z", "duration_s": 879}
+{"event_id": "evt-00132", "squad": "Atlas", "service": "scheduler", "environment": "prod", "status": "success", "started_at": 1793893680000, "duration_s": 344}
+{"event_id": "evt-00172", "squad": "Draco", "service": "ingest", "environment": "test", "status": "success", "started_at": "2026-11-06T17:02:00Z", "duration_s": 602}
+{"event_id": "evt-00086", "squad": "Nova", "service": "auth", "environment": "test", "status": "SUCCESS", "started_at": "2026-11-02T15:09:00Z", "duration_s": 360}
+{"event_id": "evt-00054", "squad": "Lyra", "service": "scheduler", "environment": "prod", "status": "Success", "started_at": 1793265480000, "duration_s": 179}
+{"event_id": "evt-00227", "squad": "Lyra", "service": "ingest", "environment": "prod", "status": "success", "started_at": "2026-11-12T14:50:00Z", "duration_s": 552}
+{"event_id": "evt-00116", "squad": "Orion", "service": "scheduler", "environment": "acc", "status": "SUCCESS", "started_at": "2026-11-04T08:28:00Z", "duration_s": 862}
+{"event_id": "evt-00106", "squad": "Vega", "service": "api", "environment": "test", "status": "Success", "started_at": "2026-11-03T14:57:00Z", "duration_s": 264}
+{"event_id": "evt-00166", "squad": "Vega", "service": "scheduler", "environment": "acc", "status": " success ", "started_at": "2026-11-06T12:19:00Z", "duration_s": 637}
+{"event_id": "evt-00018", "squad": "Atlas", "service": "auth", "environment": "test", "status": "Success", "started_at": "2026-10-27T10:18:00Z", "duration_s": 834}
+{"event_id": "evt-00029", "squad": null, "service": "ingest", "environment": "test", "status": "failed", "started_at": 1793200080000, "duration_s": 554}
+{"event_id": "evt-00323", "squad": "Nova", "service": "auth", "environment": "acc", "status": "SUCCESS", "started_at": "20-11-2026 16:01", "duration_s": 521}
+{"event_id": "evt-00342", "squad": "Orion", "service": "ingest", "environment": "test", "status": "Success", "started_at": "2026-11-23T09:12:00Z", "duration_s": 593}
+{"event_id": "evt-00071", "squad": "Lyra", "service": "auth", "environment": "prod", "status": " success ", "started_at": "30-10-2026 12:18", "duration_s": 327}
+{"event_id": "evt-00317", "squad": "Phoenix", "service": "api", "environment": "prod", "status": "failed", "started_at": "2026-11-20T09:12:00Z", "duration_s": 662}
+{"event_id": "evt-00045", "squad": "Metron", "service": "auth", "environment": "prod", "status": " success ", "started_at": 1793289420000, "duration_s": 257}
+{"event_id": "evt-00241", "squad": "Orion", "service": "auth", "environment": "prod", "status": " success ", "started_at": "unknown", "duration_s": 144}
+{"event_id": "evt-00313", "squad": "Metron", "service": "ingest", "environment": "test", "status": " success ", "started_at": "2026-11-20T15:37:00Z", "duration_s": 86}
+{"event_id": "evt-00198", "squad": "Vega", "service": "scheduler", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-10T15:07:00Z", "duration_s": 173}
+{"event_id": "evt-00115", "squad": "Orion", "service": "api", "environment": "prod", "status": "failed", "started_at": "2026-11-04T10:16:00Z", "duration_s": 181}
+{"event_id": "evt-00073", "squad": "Draco", "service": "api", "environment": "acc", "status": "failed", "started_at": "2026-10-30T13:39:00Z", "duration_s": 648}
+{"event_id": "evt-00062", "squad": "Phoenix", "service": "api", "environment": "test", "status": "SUCCESS", "started_at": 1793354580000, "duration_s": 87}
+{"event_id": "evt-00397", "squad": "Phoenix", "service": "ingest", "environment": "prod", "status": " success ", "started_at": 1795799940000, "duration_s": 57}
+{"event_id": "evt-00358", "squad": "Atlas", "service": "scheduler", "environment": "prod", "status": "Success", "started_at": "2026-11-24T17:43:00Z", "duration_s": 262}
+{"event_id": "evt-00330", "squad": "Metron", "service": "scheduler", "environment": "acc", "status": " success ", "started_at": "2026-11-23T17:02:00Z", "duration_s": 526}
+{"event_id": "evt-00350", "squad": "Lyra", "service": "scheduler", "environment": "test", "status": "success", "started_at": "2026-11-23T13:51:00Z", "duration_s": 338}
+{"event_id": "evt-00288", "squad": "Orion", "service": "scheduler", "environment": "acc", "status": "failed", "started_at": "2026-11-18T09:36:00Z", "duration_s": 73}
+{"event_id": "evt-00271", "squad": "Nova", "service": "scheduler", "environment": "acc", "status": "Success", "started_at": "17-11-2026 08:51", "duration_s": 752}
+{"event_id": "evt-00079", "squad": "Metron", "service": "api", "environment": "prod", "status": "SUCCESS", "started_at": "02-11-2026 11:05", "duration_s": 550}
+{"event_id": "evt-00292", "squad": "Draco", "service": "auth", "environment": "acc", "status": "success", "started_at": "18-11-2026 16:24", "duration_s": 477}
+{"event_id": "evt-00056", "squad": "Draco", "service": "api", "environment": "prod", "status": "Success", "started_at": "unknown", "duration_s": 225}
+{"event_id": "evt-00357", "squad": "Atlas", "service": "auth", "environment": "acc", "status": " success ", "started_at": "2026-11-24T10:49:00Z", "duration_s": 367}
+{"event_id": "evt-00090", "squad": "Lyra", "service": "auth", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-02T14:39:00Z", "duration_s": 446}
+{"event_id": "evt-00396", "squad": "Phoenix", "service": "ingest", "environment": "prod", "status": " success ", "started_at": "2026-11-27T16:36:00Z", "duration_s": 879}
+{"event_id": "evt-00385", "squad": "Nova", "service": "api", "environment": "prod", "status": " success ", "started_at": "2026-11-26T13:44:00Z", "duration_s": 33}
+{"event_id": "evt-00311", "squad": "Metron", "service": "ingest", "environment": "prod", "status": "Success", "started_at": 1795191180000, "duration_s": 265}
+{"event_id": "evt-00072", "squad": "Lyra", "service": "dashboard", "environment": "prod", "status": "Success", "started_at": "2026-10-30T10:09:00Z", "duration_s": 560}
+{"event_id": "evt-00154", "squad": "Atlas", "service": "api", "environment": "prod", "status": "Failed", "started_at": "2026-11-06T10:57:00Z", "duration_s": 390}
+{"event_id": "evt-00237", "squad": "Phoenix", "service": "dashboard", "environment": "test", "status": " success ", "started_at": "2026-11-13T17:03:00Z", "duration_s": 249}
+{"event_id": "evt-00005", "squad": "Orion", "service": "ingest", "environment": "acc", "status": " success ", "started_at": 1793021880000, "duration_s": 725}
+{"event_id": "evt-00240", "squad": "Orion", "service": "auth", "environment": "prod", "status": "Success", "started_at": "2026-11-13T13:58:00Z", "duration_s": 631}
+{"event_id": "evt-00152", "squad": "Atlas", "service": "auth", "environment": "prod", "status": " success ", "started_at": "2026-11-06T16:37:00Z", "duration_s": 793}
+{"event_id": "evt-00375", "squad": "Vega", "service": "scheduler", "environment": "acc", "status": "success", "started_at": "2026-11-25T10:47:00Z", "duration_s": 124}
+{"event_id": "evt-00207", "squad": "Orion", "service": "api", "environment": "acc", "status": " success ", "started_at": "unknown", "duration_s": 487}
+{"event_id": "evt-00020", "squad": "Atlas", "service": "api", "environment": "prod", "status": "success", "started_at": "2026-10-27T11:04:00Z", "duration_s": 583}
+{"event_id": "evt-00168", "squad": "Lyra", "service": "auth", "environment": "prod", "status": "success", "started_at": "06-11-2026 16:10", "duration_s": 276}
+{"event_id": "evt-00179", "squad": "Nova", "service": "api", "environment": "acc", "status": "SUCCESS", "started_at": 1794219780000, "duration_s": 518}
+{"event_id": "evt-00047", "squad": "Atlas", "service": "api", "environment": "prod", "status": "Success", "started_at": 1793288340000, "duration_s": 593}
+{"event_id": "evt-00336", "squad": "Atlas", "service": "api", "environment": "prod", "status": "SUCCESS", "started_at": "23-11-2026 08:25", "duration_s": 378}
+{"event_id": "evt-00366", "squad": "Lyra", "service": "dashboard", "environment": "prod", "status": " success ", "started_at": "2026-11-24T13:53:00Z", "duration_s": 166}
+{"event_id": "evt-00007", "squad": "Nova", "service": "scheduler", "environment": "test", "status": " success ", "started_at": "2026-10-26T10:35:00Z", "duration_s": 59}
+{"event_id": "evt-00074", "squad": "Draco", "service": "api", "environment": "prod", "status": "Success", "started_at": "30-10-2026 10:49", "duration_s": 624}
+{"event_id": "evt-00224", "squad": "Vega", "service": "ingest", "environment": "acc", "status": "success", "started_at": "12-11-2026 09:52", "duration_s": 734}
+{"event_id": "evt-00277", "squad": "Draco", "service": "scheduler", "environment": "prod", "status": " success ", "started_at": "unknown", "duration_s": 450}
+{"event_id": "evt-00408", "squad": "Draco", "service": "scheduler", "environment": "acc", "status": "success", "started_at": 1795797360000, "duration_s": 440}
+{"event_id": "evt-00165", "squad": "Vega", "service": "dashboard", "environment": "test", "status": "success", "started_at": "2026-11-06T09:48:00Z", "duration_s": 839}
+{"event_id": "evt-00013", "squad": "Draco", "service": "auth", "environment": "prod", "status": " success ", "started_at": "26-10-2026 11:08", "duration_s": 685}
+{"event_id": "evt-00140", "squad": "Vega", "service": "scheduler", "environment": "acc", "status": "success", "started_at": "2026-11-05T17:40:00Z", "duration_s": 50}
+{"event_id": "evt-00382", "squad": "Atlas", "service": "api", "environment": "prod", "status": " failed ", "started_at": 1795703160000, "duration_s": 101}
+{"event_id": "evt-00314", "squad": "Atlas", "service": "ingest", "environment": "test", "status": "SUCCESS", "started_at": "2026-11-20T15:16:00Z", "duration_s": 222}
+{"event_id": "evt-00025", "squad": "Vega", "service": "scheduler", "environment": "prod", "status": " success ", "started_at": "2026-10-27T15:33:00Z", "duration_s": 460}
+{"event_id": "evt-00355", "squad": "Metron", "service": "ingest", "environment": "acc", "status": "SUCCESS", "started_at": "24-11-2026 14:50", "duration_s": 878}
+{"event_id": "evt-00373", "squad": "Nova", "service": "ingest", "environment": "test", "status": "Success", "started_at": "25-11-2026 15:17", "duration_s": 767}
+{"event_id": "evt-00259", "squad": "Phoenix", "service": "dashboard", "environment": "acc", "status": "Failed", "started_at": "2026-11-16T10:45:00Z", "duration_s": 153}
+{"event_id": "evt-00080", "squad": "Atlas", "service": "dashboard", "environment": "acc", "status": " failed ", "started_at": "02-11-2026 10:59", "duration_s": 454}
+{"event_id": "evt-00075", "squad": "Draco", "service": "dashboard", "environment": "prod", "status": "SUCCESS", "started_at": "2026-10-30T09:31:00Z", "duration_s": 74}
+{"event_id": "evt-00145", "squad": "Lyra", "service": "ingest", "environment": "prod", "status": "success", "started_at": 1793879220000, "duration_s": 412}
+{"event_id": "evt-00139", "squad": "Vega", "service": "api", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-05T11:48:00Z", "duration_s": 654}
+{"event_id": "evt-00206", "squad": "Phoenix", "service": "auth", "environment": "prod", "status": "success", "started_at": "2026-11-11T10:06:00Z", "duration_s": 656}
+{"event_id": "evt-00244", "squad": "Nova", "service": "ingest", "environment": "acc", "status": " success ", "started_at": "2026-11-13T16:14:00Z", "duration_s": 482}
+{"event_id": "evt-00088", "squad": "Vega", "service": "dashboard", "environment": "prod", "status": " success ", "started_at": "2026-11-02T10:53:00Z", "duration_s": 630}
+{"event_id": "evt-00295", "squad": "Draco", "service": "scheduler", "environment": "prod", "status": " success ", "started_at": "2026-11-18T14:34:00Z", "duration_s": 501}
+{"event_id": "evt-00153", "squad": "Atlas", "service": "api", "environment": "test", "status": "SUCCESS", "started_at": "2026-11-06T09:37:00Z", "duration_s": 524}
+{"event_id": "evt-00250", "squad": "Lyra", "service": "auth", "environment": "prod", "status": " success ", "started_at": "13-11-2026 17:08", "duration_s": 378}
+{"event_id": "evt-00149", "squad": "Metron", "service": "scheduler", "environment": "test", "status": "success", "started_at": 1793982840000, "duration_s": 851}
+{"event_id": "evt-00065", "squad": "Nova", "service": "auth", "environment": "acc", "status": " success ", "started_at": "2026-10-30T14:08:00Z", "duration_s": 242}
+{"event_id": "evt-00228", "squad": "Draco", "service": "scheduler", "environment": "test", "status": "SUCCESS", "started_at": 1794472860000, "duration_s": 352}
+{"event_id": "evt-00081", "squad": "Atlas", "service": "ingest", "environment": "acc", "status": " success ", "started_at": "02-11-2026 12:34", "duration_s": 222}
+{"event_id": "evt-00205", "squad": "Atlas", "service": "auth", "environment": "acc", "status": " success ", "started_at": "2026-11-11T13:41:00Z", "duration_s": 726}
+{"event_id": "evt-00063", "squad": "Orion", "service": "scheduler", "environment": "prod", "status": "SUCCESS", "started_at": "2026-10-30T13:52:00Z", "duration_s": 613}
+{"event_id": "evt-00117", "squad": "Nova", "service": "ingest", "environment": "prod", "status": "success", "started_at": "2026-11-04T10:26:00Z", "duration_s": 364}
+{"event_id": "evt-00398", "squad": "Phoenix", "service": "ingest", "environment": "prod", "status": "Failed", "started_at": "2026-11-27T11:55:00Z", "duration_s": 308}
+{"event_id": "evt-00404", "squad": "Lyra", "service": "auth", "environment": "test", "status": "success", "started_at": 1795776600000, "duration_s": 402}
+{"event_id": "evt-00332", "squad": "Metron", "service": "api", "environment": "prod", "status": " success ", "started_at": "2026-11-23T08:49:00Z", "duration_s": 791}
+{"event_id": "evt-00155", "squad": "Phoenix", "service": "scheduler", "environment": "test", "status": "success", "started_at": 1793957280000, "duration_s": 785}
+{"event_id": "evt-00353", "squad": "Metron", "service": "api", "environment": "prod", "status": "SUCCESS", "started_at": "24-11-2026 08:18", "duration_s": 301}
+{"event_id": "evt-00210", "squad": "Nova", "service": "ingest", "environment": "prod", "status": "success", "started_at": "11-11-2026 13:32", "duration_s": 283}
+{"event_id": "evt-00010", "squad": "Vega", "service": "ingest", "environment": "test", "status": "SUCCESS", "started_at": "2026-10-26T08:51:00Z", "duration_s": 565}
+{"event_id": "evt-00392", "squad": "Atlas", "service": "scheduler", "environment": "acc", "status": "SUCCESS", "started_at": 1795798680000, "duration_s": 578}
+{"event_id": "evt-00059", "squad": "Atlas", "service": "api", "environment": "prod", "status": "SUCCESS", "started_at": "2026-10-30T10:24:00Z", "duration_s": 450}
+{"event_id": "evt-00064", "squad": "Nova", "service": "dashboard", "environment": "prod", "status": "Success", "started_at": "2026-10-30T08:00:00Z", "duration_s": 694}
+{"event_id": "evt-00107", "squad": "Vega", "service": "ingest", "environment": "prod", "status": " success ", "started_at": "2026-11-03T15:34:00Z", "duration_s": 137}
+{"event_id": "evt-00115", "squad": "Orion", "service": "api", "environment": "prod", "status": "failed", "started_at": "2026-11-04T10:16:00Z", "duration_s": 181}
+{"event_id": "evt-00303", "squad": "Orion", "service": "ingest", "environment": "acc", "status": "success", "started_at": 1795105020000, "duration_s": 97}
+{"event_id": "evt-00255", "squad": "Metron", "service": "api", "environment": "prod", "status": " success ", "started_at": "2026-11-16T13:54:00Z", "duration_s": 599}
+{"event_id": "evt-00321", "squad": "Nova", "service": "auth", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-20T08:48:00Z", "duration_s": 509}
+{"event_id": "evt-00274", "squad": "Lyra", "service": "auth", "environment": "test", "status": "Success", "started_at": 1794913620000, "duration_s": 372}
+{"event_id": "evt-00225", "squad": "Vega", "service": "scheduler", "environment": "acc", "status": "SUCCESS", "started_at": "2026-11-12T11:35:00Z", "duration_s": 603}
+{"event_id": "evt-00091", "squad": "Draco", "service": "ingest", "environment": "acc", "status": "Success", "started_at": "unknown", "duration_s": 241}
+{"event_id": "evt-00185", "squad": "Atlas", "service": "api", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-10T10:49:00Z", "duration_s": 45}
+{"event_id": "evt-00022", "squad": "Orion", "service": "scheduler", "environment": "test", "status": "SUCCESS", "started_at": "27-10-2026 14:47", "duration_s": 252}
+{"event_id": "evt-00124", "squad": "Vega", "service": "auth", "environment": "test", "status": "Success", "started_at": "2026-11-04T12:59:00Z", "duration_s": 386}
+{"event_id": "evt-00144", "squad": "Lyra", "service": "auth", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-05T08:39:00Z", "duration_s": 99}
+{"event_id": "evt-00252", "squad": "Draco", "service": "api", "environment": "acc", "status": " success ", "started_at": 1794580260000, "duration_s": 180}
+{"event_id": "evt-00263", "squad": "Lyra", "service": "auth", "environment": "test", "status": " success ", "started_at": 1794826920000, "duration_s": 187}
+{"event_id": "evt-00287", "squad": "Orion", "service": "ingest", "environment": "test", "status": "Success", "started_at": "2026-11-18T16:25:00Z", "duration_s": 791}
+{"event_id": "evt-00026", "squad": "Draco", "service": "ingest", "environment": "test", "status": "SUCCESS", "started_at": "2026-10-27T09:00:00Z", "duration_s": 613}
+{"event_id": "evt-00335", "squad": "Atlas", "service": "dashboard", "environment": "test", "status": "Success", "started_at": "2026-11-23T17:37:00Z", "duration_s": 874}
+{"event_id": "evt-00057", "squad": "Atlas", "service": "auth", "environment": "acc", "status": "FAILED", "started_at": "2026-10-30T15:00:00Z", "duration_s": 401}
+{"event_id": "evt-00126", "squad": "Draco", "service": "scheduler", "environment": "prod", "status": "FAILED", "started_at": "04-11-2026 09:15", "duration_s": 692}
+{"event_id": "evt-00163", "squad": "Vega", "service": "auth", "environment": "prod", "status": "Success", "started_at": "2026-11-06T08:56:00Z", "duration_s": 354}
+{"event_id": "evt-00027", "squad": "Draco", "service": "api", "environment": "acc", "status": " success ", "started_at": "2026-10-27T13:42:00Z", "duration_s": 280}
+{"event_id": "evt-00170", "squad": "Draco", "service": "api", "environment": "acc", "status": "SUCCESS", "started_at": 1793969880000, "duration_s": 42}
+{"event_id": "evt-00060", "squad": "Atlas", "service": "scheduler", "environment": "acc", "status": "failed", "started_at": 1793352480000, "duration_s": 456}
+{"event_id": "evt-00090", "squad": "Lyra", "service": "auth", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-02T14:39:00Z", "duration_s": 446}
+{"event_id": "evt-00104", "squad": "Vega", "service": "scheduler", "environment": "prod", "status": "Success", "started_at": "2026-11-03T13:03:00Z", "duration_s": 143}
+{"event_id": "evt-00129", "squad": "Atlas", "service": "dashboard", "environment": "test", "status": "SUCCESS", "started_at": "2026-11-05T09:28:00Z", "duration_s": 260}
+{"event_id": "evt-00160", "squad": "Nova", "service": "auth", "environment": "prod", "status": "success", "started_at": "2026-11-06T16:08:00Z", "duration_s": 171}
+{"event_id": "evt-00298", "squad": "Atlas", "service": "auth", "environment": "test", "status": " success ", "started_at": "2026-11-19T12:29:00Z", "duration_s": 267}
+{"event_id": "evt-00218", "squad": "Metron", "service": "api", "environment": "acc", "status": "success", "started_at": "12-11-2026 17:52", "duration_s": 767}
+{"event_id": "evt-00147", "squad": "Draco", "service": "scheduler", "environment": "acc", "status": "Success", "started_at": "2026-11-05T16:24:00Z", "duration_s": 658}
+{"event_id": "evt-00156", "squad": "Phoenix", "service": "ingest", "environment": "acc", "status": "failed", "started_at": "2026-11-06T15:00:00Z", "duration_s": 424}
+{"event_id": "evt-00033", "squad": "Nova", "service": "scheduler", "environment": "acc", "status": "Failed", "started_at": 1793191980000, "duration_s": 798}
+{"event_id": "evt-00328", "squad": "Draco", "service": "api", "environment": "prod", "status": " success ", "started_at": "2026-11-20T11:25:00Z", "duration_s": 642}
+{"event_id": "evt-00278", "squad": "Metron", "service": "ingest", "environment": "acc", "status": "success", "started_at": "18-11-2026 08:05", "duration_s": 813}
+{"event_id": "evt-00011", "squad": "Lyra", "service": "dashboard", "environment": "prod", "status": "SUCCESS", "started_at": "2026-10-26T13:47:00Z", "duration_s": 873}
+{"event_id": "evt-00314", "squad": "Atlas", "service": "ingest", "environment": "test", "status": "SUCCESS", "started_at": "2026-11-20T15:16:00Z", "duration_s": 222}
+{"event_id": "evt-00157", "squad": "Phoenix", "service": "dashboard", "environment": "prod", "status": " success ", "started_at": 1793961000000, "duration_s": 187}
+{"event_id": "evt-00393", "squad": "Atlas", "service": "api", "environment": "test", "status": "SUCCESS", "started_at": "2026-11-27T08:38:00Z", "duration_s": 93}
+{"event_id": "evt-00232", "squad": "Metron", "service": "scheduler", "environment": "prod", "status": " success ", "started_at": "13-11-2026 15:23", "duration_s": 340}
+{"event_id": "evt-00395", "squad": "Phoenix", "service": "auth", "environment": "prod", "status": " failed ", "started_at": "2026-11-27T13:19:00Z", "duration_s": 386}
+{"event_id": "evt-00337", "squad": "Atlas", "service": "dashboard", "environment": "prod", "status": "Success", "started_at": "23-11-2026 17:35", "duration_s": 368}
+{"event_id": "evt-00128", "squad": "Draco", "service": "api", "environment": "prod", "status": "FAILED", "started_at": "2026-11-04T17:16:00Z", "duration_s": 346}
+{"event_id": "evt-00407", "squad": "Draco", "service": "dashboard", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-27T08:15:00Z", "duration_s": 837}
+{"event_id": "evt-00333", "squad": "Metron", "service": "auth", "environment": "prod", "status": " success ", "started_at": "2026-11-23T17:32:00Z", "duration_s": 369}
+{"event_id": "evt-00191", "squad": "Orion", "service": "dashboard", "environment": "acc", "status": "success", "started_at": "10-11-2026 14:08", "duration_s": 383}
+{"event_id": "evt-00362", "squad": "Vega", "service": "auth", "environment": "acc", "status": "success", "started_at": 1795516980000, "duration_s": 763}
+{"event_id": "evt-00331", "squad": "Metron", "service": "ingest", "environment": "acc", "status": " success ", "started_at": 1795436400000, "duration_s": 284}
+{"event_id": "evt-00019", "squad": "Atlas", "service": "api", "environment": "prod", "status": "Success", "started_at": "2026-10-27T13:10:00Z", "duration_s": 205}
+{"event_id": "evt-00306", "squad": "Nova", "service": "auth", "environment": "acc", "status": "SUCCESS", "started_at": 1795110480000, "duration_s": 310}
+{"event_id": "evt-00173", "squad": "Metron", "service": "scheduler", "environment": "prod", "status": "success", "started_at": 1794240120000, "duration_s": 272}
+{"event_id": "evt-00118", "squad": "Nova", "service": "auth", "environment": "test", "status": " success ", "started_at": "2026-11-04T13:57:00Z", "duration_s": 53}
+{"event_id": "evt-00177", "squad": "Phoenix", "service": "scheduler", "environment": "acc", "status": " success ", "started_at": 1794246000000, "duration_s": 610}
+{"event_id": "evt-00256", "squad": "Metron", "service": "api", "environment": "prod", "status": "Failed", "started_at": "2026-11-16T17:28:00Z", "duration_s": 458}
+{"event_id": "evt-00135", "squad": "Orion", "service": "scheduler", "environment": "test", "status": "SUCCESS", "started_at": "2026-11-05T08:50:00Z", "duration_s": 205}
+{"event_id": "evt-00197", "squad": "Vega", "service": "auth", "environment": "test", "status": "Success", "started_at": "2026-11-10T12:07:00Z", "duration_s": 162}
+{"event_id": "evt-00270", "squad": "Nova", "service": "auth", "environment": "prod", "status": "Failed", "started_at": 1794903180000, "duration_s": 778}
+{"event_id": "evt-00155", "squad": "Phoenix", "service": "scheduler", "environment": "test", "status": "success", "started_at": 1793957280000, "duration_s": 785}
+{"event_id": "evt-00052", "squad": "Vega", "service": "auth", "environment": "acc", "status": " success ", "started_at": "2026-10-29T08:40:00Z", "duration_s": 867}
+{"event_id": "evt-00004", "squad": "Orion", "service": "dashboard", "environment": "test", "status": "success", "started_at": "2026-10-26T12:59:00Z", "duration_s": 332}
+{"event_id": "evt-00187", "squad": "Phoenix", "service": "dashboard", "environment": "prod", "status": " success ", "started_at": "2026-11-10T14:59:00Z", "duration_s": 614}
+{"event_id": "evt-00068", "squad": "Vega", "service": "auth", "environment": "acc", "status": " success ", "started_at": "2026-10-30T14:35:00Z", "duration_s": 771}
+{"event_id": "evt-00329", "squad": "Draco", "service": "ingest", "environment": "acc", "status": "failed", "started_at": "2026-11-20T10:00:00Z", "duration_s": 896}
+{"event_id": "evt-00161", "squad": "Nova", "service": "api", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-06T11:43:00Z", "duration_s": 882}
+{"event_id": "evt-00230", "squad": "Draco", "service": "dashboard", "environment": "prod", "status": "Success", "started_at": "2026-11-12T14:54:00Z", "duration_s": 271}
+{"event_id": "evt-00093", "squad": "Metron", "service": "scheduler", "environment": "prod", "status": "Success", "started_at": 1793716500000, "duration_s": 539}
+{"event_id": "evt-00308", "squad": "Nova", "service": "dashboard", "environment": "prod", "status": "success", "started_at": "2026-11-19T13:09:00Z", "duration_s": 214}
+{"event_id": "evt-00297", "squad": "Atlas", "service": "ingest", "environment": "test", "status": " success ", "started_at": 1795100220000, "duration_s": 591}
+{"event_id": "evt-00095", "squad": "Metron", "service": "ingest", "environment": "prod", "status": "success", "started_at": 1793707140000, "duration_s": 673}
+{"event_id": "evt-00193", "squad": "Nova", "service": "api", "environment": "prod", "status": "success", "started_at": "2026-11-10T12:24:00Z", "duration_s": 230}
+{"event_id": "evt-00127", "squad": "Draco", "service": "ingest", "environment": "prod", "status": "success", "started_at": "2026-11-04T12:07:00Z", "duration_s": 129}
+{"event_id": "evt-00291", "squad": "Lyra", "service": "scheduler", "environment": "acc", "status": " success ", "started_at": "2026-11-18T15:27:00Z", "duration_s": 147}
+{"event_id": "evt-00217", "squad": "Draco", "service": "auth", "environment": "prod", "status": " success ", "started_at": "11-11-2026 13:39", "duration_s": 792}
+{"event_id": "evt-00214", "squad": "Lyra", "service": "ingest", "environment": "test", "status": "SUCCESS", "started_at": 1794403620000, "duration_s": 152}
+{"event_id": "evt-00078", "squad": "Metron", "service": "auth", "environment": "test", "status": "Success", "started_at": "2026-11-02T09:43:00Z", "duration_s": 725}
+{"event_id": "evt-00169", "squad": "Draco", "service": "api", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-06T15:32:00Z", "duration_s": 607}
+{"event_id": "evt-00133", "squad": "Phoenix", "service": "auth", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-05T17:09:00Z", "duration_s": 324}
+{"event_id": "evt-00360", "squad": "Orion", "service": "dashboard", "environment": "prod", "status": "Success", "started_at": 1795516860000, "duration_s": 286}
+{"event_id": "evt-00283", "squad": "Atlas", "service": "ingest", "environment": "prod", "status": "success", "started_at": "2026-11-18T08:31:00Z", "duration_s": 530}
+{"event_id": "evt-00014", "squad": "Draco", "service": "dashboard", "environment": "test", "status": "SUCCESS", "started_at": "26-10-2026 15:00", "duration_s": 305}
+{"event_id": "evt-00069", "squad": "Vega", "service": "auth", "environment": "test", "status": "SUCCESS", "started_at": "2026-10-30T08:30:00Z", "duration_s": 191}
+{"event_id": "evt-00178", "squad": "Nova", "service": "auth", "environment": "prod", "status": "success", "started_at": "2026-11-09T11:59:00Z", "duration_s": 337}
+{"event_id": "evt-00202", "squad": "Lyra", "service": "ingest", "environment": "prod", "status": "failed", "started_at": "2026-11-10T10:49:00Z", "duration_s": 357}
+{"event_id": "evt-00046", "squad": "Atlas", "service": "dashboard", "environment": "test", "status": "SUCCESS", "started_at": "2026-10-29T12:25:00Z", "duration_s": 164}
+{"event_id": "evt-00200", "squad": "Lyra", "service": "dashboard", "environment": "acc", "status": "Success", "started_at": "2026-11-10T08:42:00Z", "duration_s": 150}
+{"event_id": "evt-00087", "squad": "Vega", "service": "dashboard", "environment": "test", "status": "Success", "started_at": "02-11-2026 08:54", "duration_s": 368}
+{"event_id": "evt-00076", "squad": "Draco", "service": "api", "environment": "prod", "status": "success", "started_at": 1793378760000, "duration_s": 658}
+{"event_id": "evt-00061", "squad": "Phoenix", "service": "api", "environment": "acc", "status": " success ", "started_at": "2026-10-30T14:00:00Z", "duration_s": 728}
+{"event_id": "evt-00405", "squad": "Lyra", "service": "dashboard", "environment": "acc", "status": "Success", "started_at": "2026-11-27T11:52:00Z", "duration_s": 793}
+{"event_id": "evt-00028", "squad": "Draco", "service": "ingest", "environment": "prod", "status": "SUCCESS", "started_at": "2026-10-27T17:00:00Z", "duration_s": 700}
+{"event_id": "evt-00094", "squad": "Metron", "service": "ingest", "environment": "prod", "status": "Failed", "started_at": 1793723040000, "duration_s": 248}
+{"event_id": "evt-00261", "squad": "Nova", "service": "api", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-16T13:01:00Z", "duration_s": 446}
+{"event_id": "evt-00077", "squad": "Metron", "service": "auth", "environment": "prod", "status": "success", "started_at": 1793622780000, "duration_s": 882}
+{"event_id": "evt-00221", "squad": "Metron", "service": "ingest", "environment": "prod", "status": "success", "started_at": "2026-11-12T16:30:00Z", "duration_s": 456}
+{"event_id": "evt-00340", "squad": "Orion", "service": "dashboard", "environment": "prod", "status": "success", "started_at": "2026-11-23T09:57:00Z", "duration_s": 127}
+{"event_id": "evt-00182", "squad": "Metron", "service": "auth", "environment": "acc", "status": "Success", "started_at": "2026-11-10T13:04:00Z", "duration_s": 488}
+{"event_id": "evt-00048", "squad": "Orion", "service": "dashboard", "environment": "acc", "status": "success", "started_at": "2026-10-29T11:33:00Z", "duration_s": 292}
+{"event_id": "evt-00279", "squad": "Metron", "service": "ingest", "environment": "acc", "status": "Success", "started_at": "2026-11-18T15:23:00Z", "duration_s": 343}
+{"event_id": "evt-00009", "squad": "Nova", "service": "ingest", "environment": "prod", "status": "success", "started_at": "26-10-2026 15:16", "duration_s": 491}
+{"event_id": "evt-00348", "squad": "Lyra", "service": "api", "environment": "prod", "status": " success ", "started_at": "2026-11-23T17:44:00Z", "duration_s": 33}
+{"event_id": "evt-00319", "squad": "Orion", "service": "dashboard", "environment": "prod", "status": "Success", "started_at": "20-11-2026 11:28", "duration_s": 675}
+{"event_id": "evt-00242", "squad": "Orion", "service": "dashboard", "environment": "acc", "status": " success ", "started_at": 1794579060000, "duration_s": 640}
+{"event_id": "evt-00058", "squad": null, "service": "dashboard", "environment": "prod", "status": "SUCCESS", "started_at": "30-10-2026 17:47", "duration_s": 706}
+{"event_id": "evt-00141", "squad": "Vega", "service": "auth", "environment": "test", "status": "SUCCESS", "started_at": "2026-11-05T17:50:00Z", "duration_s": 883}
+{"event_id": "evt-00144", "squad": "Lyra", "service": "auth", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-05T08:39:00Z", "duration_s": 99}
+{"event_id": "evt-00371", "squad": "Nova", "service": "dashboard", "environment": "prod", "status": "SUCCESS", "started_at": "25-11-2026 17:52", "duration_s": 522}
+{"event_id": "evt-00347", "squad": "Vega", "service": "dashboard", "environment": "prod", "status": "success", "started_at": "2026-11-23T10:39:00Z", "duration_s": 784}
+{"event_id": "evt-00370", "squad": "Atlas", "service": "api", "environment": "acc", "status": " success ", "started_at": "25-11-2026 12:03", "duration_s": 165}
+{"event_id": "evt-00067", "squad": "Nova", "service": "scheduler", "environment": "prod", "status": "Success", "started_at": "2026-10-30T10:53:00Z", "duration_s": 456}
+{"event_id": "evt-00110", "squad": "Draco", "service": "api", "environment": "prod", "status": "Success", "started_at": 1793710980000, "duration_s": 624}
+{"event_id": "evt-00264", "squad": "Lyra", "service": "ingest", "environment": "acc", "status": "success", "started_at": "16-11-2026 16:54", "duration_s": 201}
+{"event_id": "evt-00175", "squad": "Atlas", "service": "api", "environment": "prod", "status": " failed ", "started_at": "2026-11-09T12:01:00Z", "duration_s": 849}
+{"event_id": "evt-00310", "squad": "Lyra", "service": "scheduler", "environment": "acc", "status": "SUCCESS", "started_at": 1795091580000, "duration_s": 628}
+{"event_id": "evt-00276", "squad": "Draco", "service": "api", "environment": "acc", "status": "Success", "started_at": 1794919680000, "duration_s": 433}
+{"event_id": "evt-00034", "squad": "Vega", "service": "scheduler", "environment": "prod", "status": "success", "started_at": "28-10-2026 15:33", "duration_s": 106}
+{"event_id": "evt-00356", "squad": "Metron", "service": "dashboard", "environment": "prod", "status": "failed", "started_at": "2026-11-24T15:22:00Z", "duration_s": 321}
+{"event_id": "evt-00296", "squad": "Atlas", "service": "dashboard", "environment": "test", "status": " success ", "started_at": "2026-11-19T17:56:00Z", "duration_s": 174}
+{"event_id": "evt-00235", "squad": "Atlas", "service": "dashboard", "environment": "test", "status": "SUCCESS", "started_at": "2026-11-13T16:13:00Z", "duration_s": 43}
+{"event_id": "evt-00219", "squad": "Metron", "service": "auth", "environment": "test", "status": "SUCCESS", "started_at": 1794491280000, "duration_s": 873}
+{"event_id": "evt-00136", "squad": "Orion", "service": "auth", "environment": "test", "status": "Success", "started_at": "2026-11-05T10:18:00Z", "duration_s": 197}
+{"event_id": "evt-00269", "squad": "Atlas", "service": "api", "environment": "prod", "status": "FAILED", "started_at": "2026-11-17T13:16:00Z", "duration_s": 669}
+{"event_id": "evt-00341", "squad": "Orion", "service": "auth", "environment": "test", "status": "SUCCESS", "started_at": "unknown", "duration_s": 582}
+{"event_id": "evt-00150", "squad": "Metron", "service": "ingest", "environment": "prod", "status": "Success", "started_at": 1793971260000, "duration_s": 596}
+{"event_id": "evt-00324", "squad": "Nova", "service": "dashboard", "environment": "test", "status": " success ", "started_at": "2026-11-20T13:32:00Z", "duration_s": 611}
+{"event_id": "evt-00211", "squad": "Nova", "service": "dashboard", "environment": "acc", "status": "success", "started_at": "11-11-2026 12:31", "duration_s": 740}
+{"event_id": "evt-00251", "squad": "Lyra", "service": "auth", "environment": "prod", "status": " success ", "started_at": "2026-11-13T13:03:00Z", "duration_s": 489}
+{"event_id": "evt-00238", "squad": "Phoenix", "service": "scheduler", "environment": "prod", "status": " success ", "started_at": "2026-11-13T14:15:00Z", "duration_s": 173}
+{"event_id": "evt-00369", "squad": "Atlas", "service": "auth", "environment": "prod", "status": "Failed", "started_at": "2026-11-25T10:04:00Z", "duration_s": 92}
+{"event_id": "evt-00066", "squad": "Nova", "service": "scheduler", "environment": "acc", "status": " success ", "started_at": "2026-10-30T14:24:00Z", "duration_s": 262}
+{"event_id": "evt-00352", "squad": "Draco", "service": "ingest", "environment": "prod", "status": "success", "started_at": "23-11-2026 15:08", "duration_s": 657}
+{"event_id": "evt-00293", "squad": "Draco", "service": "api", "environment": "acc", "status": " success ", "started_at": "2026-11-18T09:47:00Z", "duration_s": 203}
+{"event_id": "evt-00247", "squad": "Vega", "service": "ingest", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-13T14:33:00Z", "duration_s": 542}
+{"event_id": "evt-00284", "squad": "Phoenix", "service": "api", "environment": "acc", "status": "success", "started_at": "18-11-2026 12:39", "duration_s": 435}
+{"event_id": "evt-00377", "squad": "Vega", "service": "api", "environment": "acc", "status": " failed ", "started_at": "2026-11-25T13:17:00Z", "duration_s": 217}
+{"event_id": "evt-00176", "squad": "Phoenix", "service": "dashboard", "environment": "prod", "status": "Failed", "started_at": "2026-11-09T11:10:00Z", "duration_s": 894}
+{"event_id": "evt-00318", "squad": "Orion", "service": "ingest", "environment": "acc", "status": " success ", "started_at": "2026-11-20T10:00:00Z", "duration_s": 528}
+{"event_id": "evt-00146", "squad": "Draco", "service": "auth", "environment": "prod", "status": "Success", "started_at": 1793881440000, "duration_s": 131}
+{"event_id": "evt-00097", "squad": "Phoenix", "service": "auth", "environment": "prod", "status": " success ", "started_at": "2026-11-03T09:31:00Z", "duration_s": 429}
+{"event_id": "evt-00035", "squad": "Vega", "service": "auth", "environment": "prod", "status": "Success", "started_at": 1793180520000, "duration_s": 51}
+{"event_id": "evt-00083", "squad": "Phoenix", "service": "dashboard", "environment": "acc", "status": "Success", "started_at": "unknown", "duration_s": 773}
+{"event_id": "evt-00092", "squad": "Draco", "service": "auth", "environment": "prod", "status": "success", "started_at": "2026-11-02T10:29:00Z", "duration_s": 475}
+{"event_id": "evt-00212", "squad": "Vega", "service": "auth", "environment": "test", "status": "success", "started_at": 1794400860000, "duration_s": 79}
+{"event_id": "evt-00381", "squad": "Draco", "service": "api", "environment": "acc", "status": "success", "started_at": 1795604700000, "duration_s": 109}
+{"event_id": "evt-00379", "squad": "Draco", "service": "scheduler", "environment": "acc", "status": "Success", "started_at": 1795616160000, "duration_s": 457}
+{"event_id": "evt-00243", "squad": "Orion", "service": "dashboard", "environment": "prod", "status": " success ", "started_at": "2026-11-13T12:53:00Z", "duration_s": 494}
+{"event_id": "evt-00201", "squad": "Lyra", "service": "scheduler", "environment": "acc", "status": " success ", "started_at": "2026-11-10T16:47:00Z", "duration_s": 248}
+{"event_id": "evt-00138", "squad": "Nova", "service": "api", "environment": "prod", "status": "Success", "started_at": 1793887560000, "duration_s": 839}
+{"event_id": "evt-00151", "squad": "Atlas", "service": "auth", "environment": "acc", "status": "SUCCESS", "started_at": "06-11-2026 16:21", "duration_s": 418}
+{"event_id": "evt-00183", "squad": "Metron", "service": "api", "environment": "test", "status": "Failed", "started_at": "2026-11-10T17:19:00Z", "duration_s": 268}
+{"event_id": "evt-00286", "squad": "Orion", "service": "auth", "environment": "test", "status": "Success", "started_at": "2026-11-18T15:37:00Z", "duration_s": 343}
+{"event_id": "evt-00260", "squad": "Orion", "service": "dashboard", "environment": "test", "status": "Success", "started_at": 1794842280000, "duration_s": 613}
+{"event_id": "evt-00122", "squad": "Vega", "service": "ingest", "environment": "prod", "status": " success ", "started_at": "04-11-2026 17:58", "duration_s": 284}
+{"event_id": "evt-00031", "squad": "Nova", "service": "auth", "environment": "prod", "status": "SUCCESS", "started_at": "2026-10-28T17:11:00Z", "duration_s": 389}
+{"event_id": "evt-00010", "squad": "Vega", "service": "ingest", "environment": "test", "status": "SUCCESS", "started_at": "2026-10-26T08:51:00Z", "duration_s": 565}
+{"event_id": "evt-00101", "squad": "Nova", "service": "dashboard", "environment": "prod", "status": "SUCCESS", "started_at": "03-11-2026 10:06", "duration_s": 715}
+{"event_id": "evt-00257", "squad": "Metron", "service": "ingest", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-16T08:12:00Z", "duration_s": 319}
+{"event_id": "evt-00162", "squad": "Nova", "service": "dashboard", "environment": "test", "status": "Success", "started_at": "2026-11-06T08:46:00Z", "duration_s": 269}
+{"event_id": "evt-00346", "squad": "Nova", "service": "dashboard", "environment": "acc", "status": "SUCCESS", "started_at": "2026-11-23T09:11:00Z", "duration_s": 791}
+{"event_id": "evt-00114", "squad": "Orion", "service": "auth", "environment": "prod", "status": "SUCCESS", "started_at": "04-11-2026 08:48", "duration_s": 733}
+{"event_id": "evt-00112", "squad": "Phoenix", "service": "ingest", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-04T11:58:00Z", "duration_s": 776}
+{"event_id": "evt-00174", "squad": "Metron", "service": "auth", "environment": "prod", "status": " success ", "started_at": 1794235800000, "duration_s": 407}
+{"event_id": "evt-00325", "squad": "Lyra", "service": "auth", "environment": "test", "status": "Success", "started_at": 1795196760000, "duration_s": 560}
+{"event_id": "evt-00134", "squad": "Phoenix", "service": "scheduler", "environment": "acc", "status": " success ", "started_at": "2026-11-05T17:51:00Z", "duration_s": 862}
+{"event_id": "evt-00233", "squad": "Atlas", "service": "ingest", "environment": "prod", "status": "SUCCESS", "started_at": "13-11-2026 15:24", "duration_s": 83}
+{"event_id": "evt-00186", "squad": "Atlas", "service": "scheduler", "environment": "acc", "status": "success", "started_at": "2026-11-10T09:40:00Z", "duration_s": 685}
+{"event_id": "evt-00364", "squad": "Vega", "service": "api", "environment": "acc", "status": "success", "started_at": "2026-11-24T15:49:00Z", "duration_s": 90}
+{"event_id": "evt-00312", "squad": "Metron", "service": "api", "environment": "prod", "status": "FAILED", "started_at": "2026-11-20T08:43:00Z", "duration_s": 39}
+{"event_id": "evt-00305", "squad": "Nova", "service": "auth", "environment": "prod", "status": "success", "started_at": "2026-11-19T13:01:00Z", "duration_s": 423}
+{"event_id": "evt-00354", "squad": "Metron", "service": "scheduler", "environment": "prod", "status": " success ", "started_at": "2026-11-24T17:55:00Z", "duration_s": 116}
+{"event_id": "evt-00282", "squad": "Atlas", "service": "scheduler", "environment": "prod", "status": " failed ", "started_at": "2026-11-18T13:31:00Z", "duration_s": 738}
+{"event_id": "evt-00345", "squad": "Nova", "service": "ingest", "environment": "prod", "status": "success", "started_at": "unknown", "duration_s": 297}
+{"event_id": "evt-00365", "squad": "Lyra", "service": "ingest", "environment": "prod", "status": "Success", "started_at": "2026-11-24T11:31:00Z", "duration_s": 764}
+{"event_id": "evt-00275", "squad": "Lyra", "service": "scheduler", "environment": "test", "status": " success ", "started_at": "2026-11-17T10:12:00Z", "duration_s": 461}
+{"event_id": "evt-00067", "squad": "Nova", "service": "scheduler", "environment": "prod", "status": "Success", "started_at": "2026-10-30T10:53:00Z", "duration_s": 456}
+{"event_id": "evt-00030", "squad": "Orion", "service": "dashboard", "environment": "prod", "status": "Success", "started_at": "2026-10-28T16:05:00Z", "duration_s": 487}
+{"event_id": "evt-00199", "squad": "Lyra", "service": "api", "environment": "test", "status": "Success", "started_at": "2026-11-10T09:29:00Z", "duration_s": 470}
+{"event_id": "evt-00361", "squad": "Vega", "service": "dashboard", "environment": "acc", "status": " success ", "started_at": 1795515600000, "duration_s": 380}
+{"event_id": "evt-00386", "squad": "Lyra", "service": "dashboard", "environment": "acc", "status": "success", "started_at": "2026-11-26T12:07:00Z", "duration_s": 579}
+{"event_id": "evt-00383", "squad": "Atlas", "service": "ingest", "environment": "prod", "status": "Failed", "started_at": 1795708500000, "duration_s": 30}
+{"event_id": "evt-00220", "squad": "Metron", "service": "dashboard", "environment": "prod", "status": " success ", "started_at": 1794481500000, "duration_s": 512}
+{"event_id": "evt-00108", "squad": "Draco", "service": "auth", "environment": "acc", "status": "SUCCESS", "started_at": "2026-11-03T11:39:00Z", "duration_s": 756}
+{"event_id": "evt-00103", "squad": "Nova", "service": "auth", "environment": "prod", "status": " success ", "started_at": "03-11-2026 09:26", "duration_s": 441}
+{"event_id": "evt-00351", "squad": "Draco", "service": "ingest", "environment": "prod", "status": "Success", "started_at": 1795445100000, "duration_s": 769}
+{"event_id": "evt-00388", "squad": "Lyra", "service": "auth", "environment": "test", "status": " success ", "started_at": "2026-11-26T11:14:00Z", "duration_s": 94}
+{"event_id": "evt-00226", "squad": "Vega", "service": "ingest", "environment": "test", "status": "SUCCESS", "started_at": "2026-11-12T12:01:00Z", "duration_s": 783}
+{"event_id": "evt-00143", "squad": "Lyra", "service": "ingest", "environment": "prod", "status": " success ", "started_at": "2026-11-05T08:17:00Z", "duration_s": 275}
+{"event_id": "evt-00290", "squad": "Lyra", "service": "dashboard", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-18T11:56:00Z", "duration_s": 159}
+{"event_id": "evt-00343", "squad": "Nova", "service": "ingest", "environment": "prod", "status": " success ", "started_at": "2026-11-23T10:49:00Z", "duration_s": 738}
+{"event_id": "evt-00367", "squad": "Lyra", "service": "dashboard", "environment": "prod", "status": "SUCCESS", "started_at": "24-11-2026 12:54", "duration_s": 235}
+{"event_id": "evt-00125", "squad": "Lyra", "service": "scheduler", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-04T17:14:00Z", "duration_s": 114}
+{"event_id": "evt-00391", "squad": "Metron", "service": "auth", "environment": "acc", "status": "success", "started_at": "27-11-2026 13:36", "duration_s": 328}
+{"event_id": "evt-00309", "squad": "Lyra", "service": "api", "environment": "prod", "status": "SUCCESS", "started_at": "19-11-2026 09:06", "duration_s": 678}
+{"event_id": "evt-00266", "squad": "Metron", "service": "ingest", "environment": "prod", "status": "Success", "started_at": 1794937620000, "duration_s": 32}
+{"event_id": "evt-00289", "squad": "Lyra", "service": "scheduler", "environment": "acc", "status": "success", "started_at": "2026-11-18T08:13:00Z", "duration_s": 502}
+{"event_id": "evt-00307", "squad": "Nova", "service": "scheduler", "environment": "prod", "status": "success", "started_at": "2026-11-19T17:52:00Z", "duration_s": 860}
+{"event_id": "evt-00190", "squad": "Phoenix", "service": "dashboard", "environment": "acc", "status": "success", "started_at": 1794319800000, "duration_s": 563}
+{"event_id": "evt-00302", "squad": "Phoenix", "service": "scheduler", "environment": "prod", "status": "Success", "started_at": "2026-11-19T15:00:00Z", "duration_s": 288}
+{"event_id": "evt-00280", "squad": "Metron", "service": "api", "environment": "prod", "status": "success", "started_at": "2026-11-18T10:04:00Z", "duration_s": 510}
+{"event_id": "evt-00249", "squad": "Lyra", "service": "api", "environment": "test", "status": " success ", "started_at": "2026-11-13T16:22:00Z", "duration_s": 705}
+{"event_id": "evt-00167", "squad": "Lyra", "service": "api", "environment": "test", "status": " failed ", "started_at": 1793973360000, "duration_s": 407}
+{"event_id": "evt-00401", "squad": "Nova", "service": "scheduler", "environment": "test", "status": "success", "started_at": "2026-11-27T15:28:00Z", "duration_s": 379}
+{"event_id": "evt-00196", "squad": "Vega", "service": "dashboard", "environment": "test", "status": "success", "started_at": "2026-11-10T11:19:00Z", "duration_s": 743}
+{"event_id": "evt-00039", "squad": "Lyra", "service": "ingest", "environment": "acc", "status": "Success", "started_at": "2026-10-28T13:27:00Z", "duration_s": 186}
+{"event_id": "evt-00145", "squad": "Lyra", "service": "ingest", "environment": "prod", "status": "success", "started_at": 1793879220000, "duration_s": 412}
+{"event_id": "evt-00096", "squad": "Atlas", "service": "ingest", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-03T13:07:00Z", "duration_s": 791}
+{"event_id": "evt-00245", "squad": "Nova", "service": "ingest", "environment": "acc", "status": " success ", "started_at": "2026-11-13T14:51:00Z", "duration_s": 221}
+{"event_id": "evt-00378", "squad": "Draco", "service": "ingest", "environment": "acc", "status": "success", "started_at": "2026-11-25T16:48:00Z", "duration_s": 196}
+{"event_id": "evt-00032", "squad": "Nova", "service": "ingest", "environment": "prod", "status": "success", "started_at": "28-10-2026 12:52", "duration_s": 434}
+{"event_id": "evt-00315", "squad": "Phoenix", "service": "api", "environment": "prod", "status": " success ", "started_at": "2026-11-20T11:32:00Z", "duration_s": 372}
+{"event_id": "evt-00121", "squad": "Vega", "service": "dashboard", "environment": "prod", "status": "Success", "started_at": 1793812140000, "duration_s": 365}
+{"event_id": "evt-00189", "squad": "Phoenix", "service": "auth", "environment": "prod", "status": "Failed", "started_at": "10-11-2026 08:51", "duration_s": 556}
+{"event_id": "evt-00394", "squad": "Atlas", "service": "scheduler", "environment": "prod", "status": " success ", "started_at": 1795770660000, "duration_s": 433}
+{"event_id": "evt-00023", "squad": "Nova", "service": "api", "environment": "test", "status": "SUCCESS", "started_at": "2026-10-27T13:32:00Z", "duration_s": 695}
+{"event_id": "evt-00368", "squad": "Atlas", "service": "auth", "environment": "prod", "status": "Success", "started_at": "2026-11-25T15:01:00Z", "duration_s": 807}
+{"event_id": "evt-00017", "squad": "Atlas", "service": "scheduler", "environment": "prod", "status": " success ", "started_at": "2026-10-27T16:26:00Z", "duration_s": 256}
+{"event_id": "evt-00294", "squad": "Draco", "service": "dashboard", "environment": "test", "status": "success", "started_at": 1795014180000, "duration_s": 748}
+{"event_id": "evt-00374", "squad": "Nova", "service": "auth", "environment": "prod", "status": "Success", "started_at": "2026-11-25T14:56:00Z", "duration_s": 734}
+{"event_id": "evt-00192", "squad": "Orion", "service": "scheduler", "environment": "test", "status": "Failed", "started_at": 1794303540000, "duration_s": 368}
+{"event_id": "evt-00253", "squad": "Draco", "service": "scheduler", "environment": "prod", "status": " success ", "started_at": "2026-11-13T17:57:00Z", "duration_s": 127}
+{"event_id": "evt-00049", "squad": "Nova", "service": "auth", "environment": "prod", "status": "Success", "started_at": "unknown", "duration_s": 559}
+{"event_id": "evt-00109", "squad": "Draco", "service": "scheduler", "environment": "test", "status": "SUCCESS", "started_at": "2026-11-03T08:31:00Z", "duration_s": 314}
+{"event_id": "evt-00050", "squad": null, "service": "auth", "environment": "acc", "status": " success ", "started_at": "2026-10-29T14:52:00Z", "duration_s": 348}
+{"event_id": "evt-00113", "squad": "Orion", "service": "dashboard", "environment": "test", "status": " success ", "started_at": "04-11-2026 08:36", "duration_s": 518}
+{"event_id": "evt-00091", "squad": "Draco", "service": "ingest", "environment": "acc", "status": "Success", "started_at": "unknown", "duration_s": 241}
+{"event_id": "evt-00016", "squad": "Metron", "service": "ingest", "environment": "test", "status": "SUCCESS", "started_at": "2026-10-27T11:36:00Z", "duration_s": 434}
+{"event_id": "evt-00403", "squad": "Vega", "service": "ingest", "environment": "prod", "status": "SUCCESS", "started_at": "2026-11-27T15:14:00Z", "duration_s": 722}
+{"event_id": "evt-00392", "squad": "Atlas", "service": "scheduler", "environment": "acc", "status": "SUCCESS", "started_at": 1795798680000, "duration_s": 578}
+{"event_id": "evt-00051", "squad": "Vega", "service": "scheduler", "environment": "prod", "status": " success ", "started_at": 1793273220000, "duration_s": 689}
+{"event_id": "evt-00301", "squad": "Phoenix", "service": "dashboard", "environment": "acc", "status": " failed ", "started_at": "2026-11-19T14:55:00Z", "duration_s": 73}
+{"event_id": "evt-00147", "squad": "Draco", "service": "scheduler", "environment": "acc", "status": "Success", "started_at": "2026-11-05T16:24:00Z", "duration_s": 658}
+{"event_id": "evt-00273", "squad": "Nova", "service": "dashboard", "environment": "acc", "status": "Success", "started_at": 1794916380000, "duration_s": 517}
+{"event_id": "evt-00304", "squad": "Orion", "service": "auth", "environment": "acc", "status": "SUCCESS", "started_at": "19-11-2026 10:28", "duration_s": 78}
+{"event_id": "evt-00148", "squad": "Metron", "service": "api", "environment": "prod", "status": " success ", "started_at": 1793972220000, "duration_s": 330}
+{"event_id": "evt-00002", "squad": "Phoenix", "service": "api", "environment": "prod", "status": "SUCCESS", "started_at": "2026-10-26T16:03:00Z", "duration_s": 249}
+{"event_id": "evt-00225", "squad": "Vega", "service": "scheduler", "environment": "acc", "status": "SUCCESS", "started_at": "2026-11-12T11:35:00Z", "duration_s": 603}
+{"event_id": "evt-00194", "squad": "Nova", "service": "scheduler", "environment": "acc", "status": "success", "started_at": 1794324060000, "duration_s": 277}
+{"event_id": "evt-00406", "squad": "Lyra", "service": "ingest", "environment": "prod", "status": "success", "started_at": 1795794180000, "duration_s": 851}
+{"event_id": "evt-00239", "squad": "Phoenix", "service": "auth", "environment": "test", "status": " success ", "started_at": "2026-11-13T16:22:00Z", "duration_s": 462}
+{"event_id": "evt-00215", "squad": "Draco", "service": "ingest", "environment": "test", "status": "success", "started_at": "2026-11-11T12:44:00Z", "duration_s": 886}
+{"event_id": "evt-00281", "squad": "Atlas", "service": "ingest", "environment": "acc", "status": "success", "started_at": "2026-11-18T12:46:00Z", "duration_s": 678}
