@@ -1,0 +1,1 @@
+CREATE INDEX IF NOT EXISTS idx_deployments_squad_time ON deployments (squad, started_at);

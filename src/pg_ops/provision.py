@@ -31,12 +31,86 @@ def provision(squad: str) -> list[str]:
     Tips: use role_exists() and database_exists(). Use sql.Identifier for names.
     CREATE DATABASE cannot run in a transaction: connect(autocommit=True).
     """
-    raise NotImplementedError("TODO (Part E3)")
+    if not NAME.fullmatch(squad):
+        raise ValueError("Invalid squad name")
+
+    db = f"{squad}_db"
+    app_role = f"{squad}_app"
+    reader_role = f"{squad}_reader"
+
+    changes = []
+
+    with connect(autocommit=True) as conn:
+        # Create the database first
+        if not database_exists(conn, db):
+            conn.execute(
+                sql.SQL("CREATE DATABASE {}").format(
+                    sql.Identifier(db)
+                )
+            )
+            changes.append(f"Created database {db}")
+
+        # Create application role
+        if not role_exists(conn, app_role):
+            conn.execute(
+                sql.SQL("CREATE ROLE {}").format(
+                    sql.Identifier(app_role)
+                )
+            )
+            changes.append(f"Created role {app_role}")
+
+        # Create reader role
+        if not role_exists(conn, reader_role):
+            conn.execute(
+                sql.SQL("CREATE ROLE {}").format(
+                    sql.Identifier(reader_role)
+                )
+            )
+            changes.append(f"Created role {reader_role}")
+
+    return changes
 
 
 def remove(squad: str) -> list[str]:
     """Remove the database and the two roles (decommissioning). Only remove what exists."""
-    raise NotImplementedError("TODO (Part E3)")
+    if not NAME.fullmatch(squad):
+        raise ValueError("Invalid squad name")
+
+    db = f"{squad}_db"
+    app_role = f"{squad}_app"
+    reader_role = f"{squad}_reader"
+
+    changes = []
+
+    with connect(autocommit=True) as conn:
+        # Remove the database first
+        if database_exists(conn, db):
+            conn.execute(
+                sql.SQL("DROP DATABASE {}").format(
+                    sql.Identifier(db)
+                )
+            )
+            changes.append(f"Removed database {db}")
+
+        # Remove application role
+        if role_exists(conn, app_role):
+            conn.execute(
+                sql.SQL("DROP ROLE {}").format(
+                    sql.Identifier(app_role)
+                )
+            )
+            changes.append(f"Removed role {app_role}")
+
+        # Remove reader role
+        if role_exists(conn, reader_role):
+            conn.execute(
+                sql.SQL("DROP ROLE {}").format(
+                    sql.Identifier(reader_role)
+                )
+            )
+            changes.append(f"Removed role {reader_role}")
+
+    return changes
 
 
 if __name__ == "__main__":

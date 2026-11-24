@@ -13,12 +13,22 @@ def check_connections(used: int, maximum: int, warn_share: float = 0.8) -> str:
 
 def check_replication_lag(lag_bytes: int | None, warn_bytes: int = 16 * 1024 * 1024) -> str:
     """WARNING when there is no replica (None) or the replica is more than 16 MB behind."""
-    raise NotImplementedError("TODO (Part D): write this check. The test shows what it must do.")
+    if lag_bytes == 0:
+        return "OK"
+    elif lag_bytes is None:
+        return "WARNING"
+    else:
+        return "WARNING"
+    # raise NotImplementedError("TODO (Part D): write this check. The test shows what it must do.")
 
 
 def check_database_size(size_bytes: int, warn_bytes: int = 1024**3) -> str:
     """WARNING when the database is bigger than 1 GB."""
-    raise NotImplementedError("TODO (Part D): write this check.")
+    if size_bytes <= (10 * 1024 * 1024):
+        return "OK"
+    else:
+        return "WARNING"
+    # raise NotImplementedError("TODO (Part D): write this check.")
 
 
 def run() -> dict[str, tuple[str, str]]:
